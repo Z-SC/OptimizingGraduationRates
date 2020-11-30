@@ -1,0 +1,19 @@
+#from the regression file we get the coefficients 
+#b [*] :=
+#1   98.2381 constants
+#2   46.2574 percentAdvancedClasses
+#3  -19.3542 demographicDispartiy
+#4   -8.80429 percentMaleTeachers
+#5   -0.0468803 studentTeacherRatio
+#6   -7.45926e-06 averageTeacherSalary
+#7   -5.27971e-06 medianHouseCost
+#8    1.54507 turnoverRate
+#9   -0.297757 specialEducationRatio
+
+param percentAdvancedClasses:= 46.2574;
+param demographicDispartiy:= -19.3542;
+param percentMaleTeachers:= -8.80429;
+param studentTeacherRatio:= -0.0468803;
+param turnoverRate:= 1.54507;
+param specialEducationRatio:= -0.297757;
+
